@@ -448,9 +448,7 @@ article p {
   display: flex;
   flex-direction:column;
   gap: 15px;
-  width: 83%;
- 
-  
+  width: 600px;
   
 }
 
@@ -486,6 +484,7 @@ article p {
 
 #contact {
   display: flex;
+  align-items: center;
   justify-content: center;
   flex-direction: column;
   height: 70vh;
